@@ -1,4 +1,4 @@
-**Lane_Following_Car** 🚗 🚗
+**Autonomous_Lane_Follower**
 <br>
 
 This an Arduino Uno R3 Project. The projects Successfully achieves its aim in differentiating between White & Black lanes and following one of them as refrence path. 
